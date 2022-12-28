@@ -59,7 +59,7 @@ include 'inc.menu.php';
                                             <tr>
                                                 <th>ID</th>
                                                 <th>Name</th>
-												<th>Polda</th>
+												<th>Kanwil</th>
 												<th>Keterangan</th>
 												<th>SID</th>
                                             </tr>
@@ -173,7 +173,7 @@ include 'inc.menu.php';
 										<div class="col-md-4">
 											<input type="text" class="form-control input-sm" name="bw" id="bw" placeholder="...">
 										</div>
-										<label class="col-md-2 control-label">Polda</label>
+										<label class="col-md-2 control-label">Kanwil</label>
 										<div class="col-md-4">
 											<!--input type="text" class="form-control input-sm" name="kanwil" id="kanwil" placeholder="..."-->
 											<select class="form-control" name="kanwil" id="kanwil">
