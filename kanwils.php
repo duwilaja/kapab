@@ -2,7 +2,7 @@
 include 'inc.chksession.php';
 include 'inc.common.php';
 
-$title="Polda";
+$title="Kanwil";
 $icon="fa fa-map-o";
 $menu="kanwil";
 
