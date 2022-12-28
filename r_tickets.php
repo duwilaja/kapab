@@ -202,7 +202,7 @@ include 'inc.menu.php';
 									</div>
 									<div class="col-md-2">
 										<select class="form-control" name="customer" id="customer">
-										<option value="">All Polda</option>
+										<option value="">All Kanwil</option>
 										<?php echo $optcus?>
 										</select>
 									</div>
@@ -251,7 +251,7 @@ include 'inc.menu.php';
                                                 <th>Lokasi ID</th>
                                                 <th>Subject</th>
                                                 <th>Detail</th>
-                                                <th>Polda</th>
+                                                <th>Kanwil</th>
                                                 <th>SID</th>
                                                 <th>Service</th>
                                                 <th>Group</th>
