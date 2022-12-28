@@ -218,7 +218,7 @@ include 'inc.menu.php';
                                                 <th>Lokasi ID</th>
                                                 <th>Subject</th>
                                                 <th>Detail</th>
-                                                <th>Polda</th>
+                                                <th>Kanwil</th>
                                                 <th>Group</th>
                                                 <th>Gangguan</th>
 												<th>Layanan</th>
