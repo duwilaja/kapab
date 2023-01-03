@@ -11,7 +11,7 @@
 					<li class="xn-openable xn-icon-button">
                         <a style="width:auto;" href="#"><span class="fa fa-database"></span> <span class="xn-text">Master</span></a>
                         <ul class="animated zoomIn">
-                            <li><a href="kanwils<?php echo $env?>"><span class="fa fa-map-o"></span> Polda</a></li>
+                            <li><a href="kanwils<?php echo $env?>"><span class="fa fa-map-o"></span> Kanwil</a></li>
 							<li><a href="outlets<?php echo $env?>"><span class="fa fa-map-marker"></span> Lokasi</a></li>
 							<!--li><a href="outletips<?php echo $env?>"><span class="fa fa-tty"></span> IP</a></li>
 							<li><a href="problems<?php echo $env?>"><span class="fa fa-warning"></span> Filters</a></li>
