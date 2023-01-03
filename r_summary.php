@@ -195,13 +195,13 @@ include 'inc.menu.php';
                             <!-- START BAR CHART -->
                             <div class="panel panel-default">
                                 <div class="panel-heading">
-                                    <h3 class="panel-title">By Polda</h3>                                
+                                    <h3 class="panel-title">By Kanwil</h3>                                
                                 </div>
                                 <div class="panel-body table-responsive">
                                     <table id="satu" class="table">
                                         <thead>
                                             <tr>
-                                                <th>Polda</th>
+                                                <th>Kanwil</th>
                                                 <th>Total</th>
                                                 
                                             </tr>
@@ -239,13 +239,13 @@ include 'inc.menu.php';
                             <!-- START BAR CHART -->
                             <div class="panel panel-default">
                                 <div class="panel-heading">
-                                    <h3 class="panel-title">By Polda & Jenis Link</h3>                                
+                                    <h3 class="panel-title">By Kanwil & Jenis Link</h3>                                
                                 </div>
                                 <div class="panel-body table-responsive">
                                     <table id="tiga" class="table">
                                         <thead>
                                             <tr>
-                                                <th>Polda</th>
+                                                <th>Kanwil</th>
                                                 <th>Link</th>
                                                 <th>Total</th>
                                                 
@@ -287,13 +287,13 @@ include 'inc.menu.php';
                             <!-- START DONUT CHART -->
                             <div class="panel panel-default">
                                 <div class="panel-heading">
-                                    <h3 class="panel-title">By Polda & Jenis Gangguan</h3>                                
+                                    <h3 class="panel-title">By Kanwil & Jenis Gangguan</h3>                                
                                 </div>
                                 <div class="panel-body table-responsive">
                                     <table id="lima" class="table">
                                         <thead>
                                             <tr>
-                                                <th>Polda</th>
+                                                <th>Kanwil</th>
                                                 <th>Gangguan</th>
                                                 <th>Total</th>
                                                 
